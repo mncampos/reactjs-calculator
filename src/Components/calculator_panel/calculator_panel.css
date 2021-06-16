@@ -1,0 +1,9 @@
+.component-button-panel{
+    display: flexbox;
+
+}
+
+.first-row{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}

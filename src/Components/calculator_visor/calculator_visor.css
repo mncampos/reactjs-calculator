@@ -1,0 +1,15 @@
+.visor{
+    width: 26.2rem;
+    height: 60px;
+    color: black;
+    background-color: lightgray;
+    font-size: 50px;
+}
+
+.smallvisor{
+    width: 26.2rem;
+    height: 20px;
+    color: rgb(221, 87, 87);
+    background-color: rgb(178, 179, 178);
+    font-size: medium;
+}
